@@ -24,7 +24,7 @@ Qt DLL Deployer - это графическое приложение, котор
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/qt-dll-deployer.git
+git clone https://github.com/tinsoft13/windeployqtupdater.git
 ```
 
 2. Откройте проект в Qt Creator
@@ -50,11 +50,11 @@ qt-dll-deployer/
 
 ## Лицензия
 
-MIT License
+Свободная
 
 ## Автор
 
-[Ваше имя] - [ваш email]
+tinsoft13
 
 ## Поддержка
 
